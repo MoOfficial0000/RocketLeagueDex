@@ -4,9 +4,8 @@ By using Rocket League Dex bot, you agree to all the terms and rules and that yo
 If you do not agree, do not use the bot.
 
 2. Trading:
-You are allowed to trade however you please within the bot using the built in commands, however, cross trading is NOT allowed. Trades and donations (/rldex give) are final. We do not reverse trade unless it is absolutely nexessary. Please be aware of what you are giving and receiving.
+You are allowed to trade however you please within the bot using the built in commands, however, cross trading is NOT allowed. Trades and donations (/rldex give) are final. We do not reverse trades unless it is absolutely necessary. Please be aware of what you are giving and receiving.
    
-
 3. Bot Functionality: Rocket League Dex allows you to catch, trade and collect virtual items on discord. No real world transactions are intended and the whole purpose of the bot is entertainment.
 
 4. Listing and Moderation: If the owner suspects you are breaking the rules or using the bot for any illegal or suspicous activities, they have the right to blacklist, ban and/or take away you items.
