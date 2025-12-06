@@ -20,13 +20,15 @@ You are allowed to trade however you please within the bot using the built in co
 
 8. No Cheating: Do not use any third-party programs, softwares or exploits to gain an advantage that is unfair in the bots. Do not share accounts. Farming is not allowed. Do not impersonate staff or other users.
 
-9. Privacy and Data: Rocket League Dex & Dragon Ball Dex collects minimal user data necessary for its functionality. We do not share this data with third parties. Do not share personal information, including passwords, addresses, or financial details, through the bot.
+9. No Misuse: You must not use the bot speicifically to harass, defame, bring harm or ruin other players' reputation. Any behaviour or actions used to coerce, intimidate or otherwise cause emotional or reputational harm is disallowed.
 
-10. Reporting Violations: If you witness any violations of these rules and terms of service, please report them to the team or any staff. Failure to do so will result in possible actions.  
+10. Privacy and Data: Rocket League Dex & Dragon Ball Dex collects minimal user data necessary for its functionality. We do not share this data with third parties. Do not share personal information, including passwords, addresses, or financial details, through the bot.
+
+11. Reporting Violations: If you witness any violations of these rules and terms of service, please report them to the team or any staff. Failure to do so will result in possible actions.  
 
 # Privacy Policy
 
-11. Rocket League Dex & Dragon Ball Dex collects the following data from Discord:
+12. Rocket League Dex & Dragon Ball Dex collects the following data from Discord:
 User IDs, this is used to identify you inside our database.
 Server (or guild) IDs, this is used to store settings necessary to the bots' operation.
 Channel IDs, this is used to know in which channel should the items spawn.
@@ -35,19 +37,19 @@ The list of collectibles owned by a user of the service
 A history of trades done on collectibles, including the users that once owned the said collectible but do not anymore
 
 Dragon Ball Dex:
-   12. How data is stored: All data is stored and ran on a local computer. This will likely be moved to Hetzner in the future.
+   13. How data is stored: All data is stored and ran on a local computer. This will likely be moved to Hetzner in the future.
    
-   13. Access to data: The only persons allowed to access the data are the application owners.
+   14. Access to data: The only persons allowed to access the data are the application owners.
    Any application owner may interact with the bot and the administrator interface. Only moofficial has direct access on the host machine.
    The Dragon Ball Dex moderation teams do not have access to the data.
    The data may never be made available to the public, and its access must be secured accordingly.
 
 Rocket League Dex:
-   12. How data is stored: All data is stored and ran on a server hosted by Hetzner
+   13. How data is stored: All data is stored and ran on a server hosted by Hetzner
    
-   13. Access to data: The only persons allowed to access the data are the application owners.
+   14. Access to data: The only persons allowed to access the data are the application owners.
    Any application owner may interact with the bot and the administrator interface.
    The Rocket League Dex moderation teams do not have access to the data.
    The data may never be made available to the public, and its access must be secured accordingly.
 
-14. You may have a copy or delete your personal data using the ( /player export ) and ( /player delete ) commands respectfully
+14. You may have a copy or delete your personal data using the ( /player export ) and ( /player delete ) commands respectfully (Both Rocket League Dex and Dragon Ball Dex)
