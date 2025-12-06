@@ -20,7 +20,7 @@ You are allowed to trade however you please within the bot using the built in co
 
 8. No Cheating: Do not use any third-party programs, softwares or exploits to gain an advantage that is unfair in the bots. Do not share accounts. Farming is not allowed. Do not impersonate staff or other users.
 
-9. No Misuse: You must not use the bot speicifically to harass, defame, bring harm or ruin other players' reputation. Any behaviour or actions used to coerce, intimidate or otherwise cause emotional or reputational harm is disallowed.
+9. No Misuse: You must not use the bot to intentionally harass, defame, bring harm or ruin other players' reputation. Any behaviour or actions used to coerce, intimidate or otherwise cause emotional or reputational harm is disallowed.
 
 10. Privacy and Data: Rocket League Dex & Dragon Ball Dex collects minimal user data necessary for its functionality. We do not share this data with third parties. Do not share personal information, including passwords, addresses, or financial details, through the bot.
 
