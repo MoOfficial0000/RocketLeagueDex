@@ -38,31 +38,12 @@ In addition, the following data proper to Rocket League Dex , Dragon Ball Dex & 
 The list of collectibles owned by a user of the service
 A history of trades done on collectibles, including the users that once owned the said collectible but do not anymore
 
-Dragon Ball Dex:
 
-   14. How data is stored: All data is stored and ran on a server hosted by Hetzner
+14. How data is stored: All data is stored and ran on a server hosted by Hetzner
    
-   15. Access to data: The only persons allowed to access the data are the application owners.
-   Any application owner may interact with the bot and the administrator interface.
-   The Dragon Ball Dex moderation teams do not have access to the data.
-   The data may never be made available to the public, and its access must be secured accordingly.
-
-Rocket League Dex:
-
-   14. How data is stored: All data is stored and ran on a server hosted by Hetzner
-   
-   15. Access to data: The only persons allowed to access the data are the application owners.
-   Any application owner may interact with the bot and the administrator interface.
-   The Rocket League Dex moderation teams do not have access to the data.
-   The data may never be made available to the public, and its access must be secured accordingly.
-
-Jujutsu Kaisen Dex:
-
-   14. How data is stored: All data is stored and ran on a server hosted by Hetzner
-   
-   15. Access to data: The only persons allowed to access the data are the application owners.
-   Any application owner may interact with the bot and the administrator interface.
-   The Jujutsu Kaisen Dex moderation teams do not have access to the data.
-   The data may never be made available to the public, and its access must be secured accordingly.
+15. Access to data: The only persons allowed to access the data are the application owners.
+Any application owner may interact with the bot and the administrator interface.
+The Rocket League Dex / Dragon Ball Dex / Jujutsu Kaisen Dex moderation teams do not have access to the data.
+The data may never be made available to the public, and its access must be secured accordingly.
 
 16. You may have a copy or delete your personal data using the ( /player export ) and ( /player delete ) commands respectfully (Both Rocket League Dex and Dragon Ball Dex), ( /player settings ) command (Jujutsu Kaisen Dex)
