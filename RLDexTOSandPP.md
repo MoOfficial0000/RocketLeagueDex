@@ -39,6 +39,7 @@ The list of collectibles owned by a user of the service
 A history of trades done on collectibles, including the users that once owned the said collectible but do not anymore
 
 Dragon Ball Dex:
+
    14. How data is stored: All data is stored and ran on a server hosted by Hetzner
    
    15. Access to data: The only persons allowed to access the data are the application owners.
@@ -47,6 +48,7 @@ Dragon Ball Dex:
    The data may never be made available to the public, and its access must be secured accordingly.
 
 Rocket League Dex:
+
    14. How data is stored: All data is stored and ran on a server hosted by Hetzner
    
    15. Access to data: The only persons allowed to access the data are the application owners.
@@ -55,6 +57,7 @@ Rocket League Dex:
    The data may never be made available to the public, and its access must be secured accordingly.
 
 Jujutsu Kaisen Dex:
+
    14. How data is stored: All data is stored and ran on a server hosted by Hetzner
    
    15. Access to data: The only persons allowed to access the data are the application owners.
